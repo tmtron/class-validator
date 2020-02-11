@@ -28,7 +28,7 @@
     "validator": "12.0.0"
   },
   "devDependencies": {
-    "@types/chai": "^4.2.0",
+    "@types/chai": "^4.2.9",
     "@types/chai-as-promised": "^7.1.2",
     "@types/del": "^4.0.0",
     "@types/gulp": "^4.0.2",
